@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "pnpm": {
+    "overrides": {
+      "metro": "0.80.11"
+    }
+  }
+}
