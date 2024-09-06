@@ -1,0 +1,3 @@
+packages:
+  - 'another-dep'
+  - 'expo-app'
